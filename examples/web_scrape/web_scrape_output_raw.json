@@ -1,0 +1,33 @@
+{
+    "header": "",
+    "infobox": [
+        {
+            "raw_text": "",
+            "hyperlinks": {
+                "name": "link"
+            },
+            "text_content": {
+                "title": "",
+                "content": ""
+            }
+        }
+    ],
+    "article": {
+        "h2": [
+            {
+                "type": "paragraph",
+                "text_content": "",
+                "hyperlinks": {
+                    "name": "link"
+                }
+            },
+            {
+                "type": "sub_header",
+                "text_content": "",
+                "hyperlinks": {
+                    "name": "link"
+                }
+            }
+        ]
+    }
+}

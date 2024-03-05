@@ -1,0 +1,62 @@
+[
+    {
+        "region": "us-east-1",
+        "calculate_with_free_tier": true,
+        "architecture": "x86",
+        "number_of_requests": {
+            "quantity": 1000,
+            "unit": "por dia"
+        },
+        "duration": 3000,
+        "memory": 512,
+        "ephemeral_storage": 512
+    },
+    {
+        "region": "us-west-1",
+        "calculate_with_free_tier": true,
+        "architecture": "x86",
+        "number_of_requests": {
+            "quantity": 1000,
+            "unit": "por dia"
+        },
+        "duration": 3000,
+        "memory": 512,
+        "ephemeral_storage": 512
+    },
+    {
+        "region": "us-east-1",
+        "calculate_with_free_tier": true,
+        "architecture": "x86",
+        "number_of_requests": {
+            "quantity": 1000,
+            "unit": "por dia"
+        },
+        "duration": 3000,
+        "memory": 512,
+        "ephemeral_storage": 256
+    },
+    {
+        "region": "us-east-1",
+        "calculate_with_free_tier": false,
+        "architecture": "Arm",
+        "number_of_requests": {
+            "quantity": 10000000,
+            "unit": "por mês"
+        },
+        "duration": 500,
+        "memory": 256,
+        "ephemeral_storage": 512
+    },
+    {
+        "region": "us-east-1",
+        "calculate_with_free_tier": true,
+        "architecture": "x86",
+        "number_of_requests": {
+            "quantity": 1000,
+            "unit": "por dia"
+        },
+        "duration": 3000,
+        "memory": 64,
+        "ephemeral_storage": 512
+    }
+]

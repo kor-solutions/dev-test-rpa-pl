@@ -1,0 +1,12 @@
+{
+    "region": "us-east-1",
+    "calculate_with_free_tier": true,
+    "architecture": "x86",
+    "number_of_requests": {
+        "quantity": 1000,
+        "unit": "por dia"
+    },
+    "duration": 3000,
+    "memory": 512,
+    "ephemeral_storage": 512
+}
