@@ -21,7 +21,9 @@ Foque em executar sua solução em cima dos casos de teste disponibilizados no l
 
 ##### Modelos
 [Modelo de Input - Web Scrape](examples/web_scrape/web_scrape_input.json)
+
 [Modelo de Output - Web Scrape](examples/web_scrape/web_scrape_output.json)
+
 [Output Raw - Web Scrape](examples/web_scrape/web_scrape_output_raw.json)
 
 ##### Casos de teste
@@ -56,6 +58,7 @@ Foque em executar sua solução em cima dos casos de teste disponibilizados no l
 
 ##### Modelos
 [Modelo de Input - Cost Calculator](examples/cost_calculator/cost_calculator_input.json)
+
 [Modelo de Output - Cost Calculator](examples/cost_calculator/cost_calculator_output.json)
 
 ##### Casos de teste
